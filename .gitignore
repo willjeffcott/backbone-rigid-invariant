@@ -18,3 +18,10 @@ plotting/
 # Ignore python cache
 __pycache__/
 *.pyc
+
+# --- Windows & Google Drive Junk ---
+# Prevents system files from accidentally being tracked
+desktop.ini
+Thumbs.db
+ehthumbs.db
+$RECYCLE.BIN/
